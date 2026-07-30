@@ -1,7 +1,5 @@
 # Advanced-Recommendation-System-based-on-Content-and-Collaborative-Filtering
 
-[![HitCount](http://hits.dwyl.com/PaulSudarshan/Advanced-Recommendation-System-based-on-Content-and-Collaborative-Filtering.svg)](http://hits.dwyl.com/PaulSudarshan/Advanced-Recommendation-System-based-on-Content-and-Collaborative-Filtering)
-
 The repo deals with an more advanced version of Recommendation Systems which is based on two different popularly known filtering mechanisms which are the Content Based Filtering and Collaborative Based Filtering. In Content based Filtering the main focus is on the item characteristics and features which are used to predict other items of similar nature. 
 The main idea behind Collaborative based filtering is that we are given a matrix of preferences by users for items, and these are used to predict missing preferences and recommend items with high predictions. All we need in a dataset are the collection of user_ids and item_ids with user's preference for different items which maybe in the form of ratings or other parameters.
 
